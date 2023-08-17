@@ -1,0 +1,2 @@
+# EasyDeployYourNewBlog
+这是一个能够便捷的将基于hexo搭建的blog网站快速部署到github pages的软件
